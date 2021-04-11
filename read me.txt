@@ -1,0 +1,6 @@
+ash color: #626262
+           #b4ad9e
+
+  Padding on every section
+
+  top-bottom: 80-100px
